@@ -26,5 +26,5 @@ Follow these steps to run the scripts on your local Linux system:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/](https://github.com/)[yourusername]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone [https://github.com/](https://github.com/)Aditya8764/oss-audit-24BAI10676.git
+cd oss-audit-24BAI10676
