@@ -2,7 +2,7 @@
 # Open Source Audit Capstone Project
 
 **Student Name:** [Aditya Patel]  
-**Registration Number:** [24Bai10676]  
+**Registration Number:** [24BAI10676]  
 **Target Software Audited:** [VLC Media Player]  
 
 ## Project Overview
